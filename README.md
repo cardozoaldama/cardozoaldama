@@ -1,6 +1,6 @@
 ### This account is not available... 👋
 
-You can now find me at [Codeberg](https://codeberg.org/FernandoCardozo) instead.
+You can now find me at [Codeberg](https://codeberg.org/FernandoCardozo) instead. Also, all the code is in there, so... Check them out!
 
 ## What is GitHub?
 
